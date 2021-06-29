@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Faruq-Ahamed
 - 👀 I’m Data science enthusiatic
-- 🌱 I’m currently learning Machine learning,
+- 🌱 I’m currently learning Machine learning,building Projects
+- i have hands experience in python, My sql.
 - 📫 How to reach me faruqahamed95@gmail.com
 
 <!---
