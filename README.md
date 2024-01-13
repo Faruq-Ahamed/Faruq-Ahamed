@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faruq-Ahamed
 - 👀 I’m Data Engineer at TCS
 - 🌱 I’m currently building Data Engineering Projects.
-- i have hands experience in python, My sql.
+- i have hands experience in python, My sql,Google Biqquery and GCS.
 - 📫 How to reach me faruqahamed95@gmail.com
 
 <!---
